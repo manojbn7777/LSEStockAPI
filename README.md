@@ -3,6 +3,7 @@ Step1: Unzip the Folder (Due to security reasons I'm unable to Push the files di
 Step2: Update the Respective Database Configuration Details
 
 Step3: For Authentication(in the Swagger UI) use Username : testtrader  and  Password : P@ssword123
+
 Step4: Run the  below in Terminal post successful solution build 
 
 dotnet ef migrations add AddInitialDBRun
